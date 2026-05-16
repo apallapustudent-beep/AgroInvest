@@ -1,14 +1,21 @@
-AgroInvest
+# AgroInvest
 
-AgroInvest is a web-based agricultural investment platform that connects farmers and investors through a secure and transparent system. Farmers can upload crop details and funding requirements, while investors can invest in agricultural projects and track their returns.
+AgroInvest is a PHP and MySQL based agriculture investment platform where farmers and investors can interact efficiently.
 
-Features
-User Registration and Login
-Farmer Dashboard
-Investor Dashboard
-Crop and Investment Management
-Wallet Management System
-ROI (Return on Investment) Calculation
-Investment Tracking
-Transaction Management
-Responsive User Interface
+## Features
+- User Registration
+- Login Authentication
+- Farmer Dashboard
+- Investor Dashboard
+- Investment Management
+- Harvest Tracking
+
+## Technologies Used
+- PHP
+- MySQL
+- HTML
+- CSS
+- XAMPP
+
+## Live Project
+https://agroinvest.infinityfreeapp.com
