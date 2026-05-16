@@ -1,4 +1,4 @@
-# AgroInvest
+AgroInvest 🌱
 
 AgroInvest is a PHP and MySQL based agriculture investment platform where farmers and investors can interact efficiently.
 
@@ -19,3 +19,6 @@ AgroInvest is a PHP and MySQL based agriculture investment platform where farmer
 
 ## Live Project
 https://agroinvest.infinityfreeapp.com
+
+
+Developed by Aravindh Pallapu
